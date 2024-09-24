@@ -15,13 +15,13 @@ def q3():
   #Write Assignment code here
 
   nradius = input("Input a radius: ")
-  print((float(nradius)) *3.14)
+  print(float(nradius)* float(nradius) *3.14)
 
 def q4():
   #Write Assignment code here
 
   number2 = input("Input a number: ")
-  print(int(float(number2)) * 12)
+  print(int(float(number2) * 12))
 
 def q5():
 
